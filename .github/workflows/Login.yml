@@ -14,7 +14,7 @@ jobs:
     # 每行一个{serv00服务器}，末尾用,间隔
       ACCOUNTS: >
         [
-        {"RES":"n", "SSH_USER":"loadling", "SSH_PASS":"TyDi!Qy(yZg!5&dxef5p", "REALITY":"www.wto.org", "SUUID":"a0ae1415-3390-4a92-ab83-8942db07ae94", "TCP1_PORT":"15661", "TCP2_PORT":"443", "UDP_PORT":"15663", "HOST":"s6.serv00.com", "ARGO_DOMAIN":"", "ARGO_AUTH":""} 
+        {"RES":"y", "SSH_USER":"loadling", "SSH_PASS":"TyDi!Qy(yZg!5&dxef5p", "REALITY":"www.wto.org", "SUUID":"a0ae1415-3390-4a92-ab83-8942db07ae94", "TCP1_PORT":"15661", "TCP2_PORT":"443", "UDP_PORT":"15663", "HOST":"s6.serv00.com", "ARGO_DOMAIN":"", "ARGO_AUTH":""} 
         ]
     steps:
       - name: Checkout Repository
